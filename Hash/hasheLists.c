@@ -1,6 +1,6 @@
 
 /*RASOLOARISON Tina
- * BELMILOUD Samira */
+ * BELMILOUD Samira **/
 
 #include "hasheLists.h"
 
